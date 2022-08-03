@@ -1,2 +1,0 @@
-# NinjaDevOps
-DevOps Projects
